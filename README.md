@@ -34,3 +34,7 @@ Example electric field and temperature distribution:
 
 <img src="misc/img/field_temperature.png" width="400">
 
+## Related publication
+
+    Veske, M., Kyritsakis, A., Eimre, K., Zadin, V., Aabloo, A., Djurabekova, F. Dynamic coupling of a finite element solver to large-scale atomistic simulations. Journal of Computational Physics 367, pp. 279-294 (2018)
+
